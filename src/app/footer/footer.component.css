@@ -1,0 +1,54 @@
+.box {
+    overflow: hidden;
+}
+
+.text {
+    text-emphasis-color: black;
+    text-align: right;
+    width: 50pt;
+    height: 50pt;
+}
+
+.requeststore {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+.newstore {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 13px;
+    margin: 0;
+    text-emphasis-color: #514f4f;
+    opacity: 0.5;
+}
+
+.serving {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+.outer {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.line1 {
+    border: 1.5px solid rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    opacity: 2;
+}
