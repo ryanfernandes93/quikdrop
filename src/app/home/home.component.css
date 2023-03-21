@@ -1,7 +1,7 @@
 .intro{
     font-family: 'Inter';
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 30px;
     line-height: 50px;
     color: #000000;
@@ -12,4 +12,19 @@
 
 .box{
     word-wrap: break-word;
+}
+
+.brder{
+    border:red;
+}
+
+.svg-div{
+    border: 10px solid #b6bdc3;
+  width: 100%;
+  background: #fff;
+  margin: 0 auto;
+}
+
+.container{
+    margin-top: 8%; 
 }

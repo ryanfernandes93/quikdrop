@@ -1,7 +1,8 @@
-.text{
-    text-emphasis-color:#206E8C;
+.nav-link{
+    text-decoration: none;
 }
 
-.anchor{
-    text-decoration: none;
+.navbar-brand {
+    color: #206E8C;
+    margin-left: 5%;
 }
